@@ -32,7 +32,7 @@
             <connections>
                 <outlet property="loadButton" destination="kM4-IZ-dgW" id="86m-Lw-zNd"/>
             </connections>
-            <point key="canvasLocation" x="132" y="154"/>
+            <point key="canvasLocation" x="133" y="154"/>
         </collectionReusableView>
     </objects>
 </document>

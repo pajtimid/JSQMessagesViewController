@@ -41,7 +41,7 @@
                 <outlet property="typingIndicatorToBubbleImageAlignConstraint" destination="ugi-H9-2rc" id="VLk-0E-ugD"/>
                 <outlet property="typingView" destination="gSx-P5-ULe" id="GG0-ER-t6L"/>
             </connections>
-            <point key="canvasLocation" x="132" y="154"/>
+            <point key="canvasLocation" x="133" y="154"/>
         </collectionReusableView>
     </objects>
 </document>

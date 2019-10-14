@@ -141,7 +141,7 @@
                 <outlet property="textViewMarginHorizontalSpaceConstraint" destination="7rI-Nc-AK3" id="ciu-j6-IpH"/>
                 <outlet property="textViewTopVerticalSpaceConstraint" destination="RiG-21-Bqc" id="i3j-z0-feE"/>
             </connections>
-            <point key="canvasLocation" x="863.768115942029" y="117.85714285714285"/>
+            <point key="canvasLocation" x="537.68115942028987" y="97.098214285714278"/>
         </collectionViewCell>
     </objects>
 </document>
